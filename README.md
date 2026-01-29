@@ -166,20 +166,6 @@ As tarefas podem estar em 3 estados diferentes:
 
 ---
 
-## 📸 Screenshots
-
-<div align="center">
-
-**Desktop View**
-![Desktop](https://via.placeholder.com/800x400/667eea/ffffff?text=Desktop+View)
-
-**Mobile View**
-![Mobile](https://via.placeholder.com/300x600/764ba2/ffffff?text=Mobile+View)
-
-</div>
-
----
-
 ## 🤝 Contribuindo
 
 Contribuições são bem-vindas! Sinta-se à vontade para:
