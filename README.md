@@ -184,11 +184,14 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 
-## 👤 Autor
+## 👤 Autores
 
 **Eduardo Couto**
-
 - GitHub: [@eduardolcouto](https://github.com/eduardolcouto)
+
+**MariaBot** 🌸
+- Assistente IA - Desenvolvimento e implementação
+- Clawdbot Agent
 
 ---
 
